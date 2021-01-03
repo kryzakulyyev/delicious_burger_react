@@ -1,8 +1,9 @@
 import React from 'react';
 import Login from './components/Login';
 import Order from './components/Order';
-import Logo from './burger-logo.jpg'
+
 import './App.css';
+import Summary from './components/Summary'
 
 class App extends React.Component {
   constructor(props) {
